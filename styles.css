@@ -9,8 +9,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    padding: 10px 0;
+    background-color:black;
+    padding: 15px 0;
 }
 
 .navbar {
@@ -23,8 +23,8 @@ header {
 }
 
 .logo {
-    color: #fff;
-    font-size: 24px;
+    color: white;
+    font-size: 26px;
     font-weight: bold;
 }
 
